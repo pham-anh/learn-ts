@@ -18,8 +18,5 @@ You can learn more at https://aka.ms/tsconfig
 
 ## Setup auto build with VSCode Task
 
-* Ctrl + Shift + P 
-  > Tasks: Configure Task
-    > Create task.json file from template
-      > Others Example to run an arbitrary external command
+* Ctrl + Shift + P > Tasks: Configure Task > Create task.json file from template > Others Example to run an arbitrary external command
 
